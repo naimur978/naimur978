@@ -2,7 +2,7 @@
 <img align="center" alt="Coding" width="100%" src="https://www.bct.com.bd/sitepad-data/uploads/2020/09/BCT2.gif">
 
 
-<h1 align="center">Hello there 👋, This is Naimur Rahman</h1>
+<h1 align="center">Hi 👋, This is Naimur Rahman</h1>
 <h3 align="center">A data-driven Machine Learning and Software Development enthusiast seeking to advance my career as a Data Science Engineer by leveraging my current skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur978&label=Profile%20views&color=0e75b6&style=flat" alt="naimur978" /> </p>
