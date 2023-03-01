@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimur978&show_icons=true&locale=en" alt="naimur978" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur978&" alt="naimur978" /></p>
+
+<img align='right' src="https://komarev.com/ghpvc/?username=naimur978" alt="naimur978" />
