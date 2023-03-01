@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://i.pinimg.com/736x/d0/fc/7f/d0fc7fe25db89d41e4694bfe67366ada.jpg)](https://github.com/naimur978) -->
-<img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/originals/44/4c/a7/444ca76be1493e407f7ee0ec7a3b50d5.gif">
+<img align="center" alt="Coding" width="100%" src="https://www.bct.com.bd/sitepad-data/uploads/2020/09/BCT2.gif">
 
 
 <h1 align="center">Hello there 👋, This is Naimur Rahman</h1>
