@@ -2,16 +2,16 @@
 <img align="center" alt="Coding" width="100%" src="https://www.bct.com.bd/sitepad-data/uploads/2020/09/BCT2.gif">
 
 
-<h1 align="center">Hi! This is Naimur 🙂</h1>
-<h3 align="center">My interest lies in the intersection of Machine Learning and Software Development, and I am passionate to pursue a career as a Data Science Engineer by leveraging my current skills.</h3>
+<h1 align="center">Hi! This is Naimur!</h1>
+<h4 align="center">My interest lies in the intersection of Machine Learning and Software Development, and I am passionate to pursue a career as a Data Science Engineer by leveraging my current skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur978&label=Profile%20views&color=0e75b6&style=flat" alt="naimur978" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimur978" alt="naimur978" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimur978" alt="naimur978" /></a> </p>  -->
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
 
-<p align="left"> <a href="https://twitter.com/naimur978" target="blank"><img src="https://img.shields.io/twitter/follow/naimur978?logo=twitter&style=for-the-badge" alt="naimur978" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/naimur978" target="blank"><img src="https://img.shields.io/twitter/follow/naimur978?logo=twitter&style=for-the-badge" alt="naimur978" /></a> </p> -->
 
 - 🌱 I’m currently learning **PostgreSQL**
 
@@ -40,4 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur978&" alt="naimur978" /></p>
 
-<img align='right' src="https://komarev.com/ghpvc/?username=naimur978" alt="naimur978" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur978&label=Profile%20views&color=0e75b6&style=flat" alt="naimur978" /> </p>
