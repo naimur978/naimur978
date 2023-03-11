@@ -89,6 +89,4 @@
 <br />
 
 
-<p align="center">
-  <img href="#" src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/33c10d5593c9e941d594836cf67822593e647c22/images/Footer.svg" />
-</p>
+
