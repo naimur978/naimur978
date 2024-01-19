@@ -27,7 +27,7 @@
 
 
 <!-- <h1 align="center">Hei! This is Naimur!</h1> -->
-<h4 align="center">My interest lies in the intersection of Machine Learning and Software Development, and I am passionate to pursue a career as a Data Science Engineer by leveraging my current skills.</h3>
+<h4 align="center">I am enthusiastic about the convergence of Machine Learning and Software Development, and I aspire to build a career as a Data Science Engineer, capitalizing on my existing skill set.</h3>
 
 
 <!-- 
