@@ -6,7 +6,6 @@
 <img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/naimur978?style=flat&color=27D3F7" />
 <img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/naimur978?style=flat&color=27D3F7" />
 
-<img align="right" alt="Visitas" src="https://visitor-badge.glitch.me/badge?page_id=page.id=naimur978&left_text=Visitors">
 <img title="Github Member" alt="Github Member" align="right" src="https://badges.strrl.dev/contributions/yearly/naimur978?color=27D3F7" />
 
   
