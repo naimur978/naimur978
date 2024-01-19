@@ -17,7 +17,7 @@
   </a>
 
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2327D3F7&size=24&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Hi!+I'm+Naimur!" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2327D3F7&size=24&center=true&vCenter=true&lines=Welcome+to+my+Github+Profile;Hei!+This+is+Naimur!" />
   </a>
 
   <a href="#">
