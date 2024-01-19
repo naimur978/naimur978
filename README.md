@@ -81,7 +81,7 @@
   <a href="#">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=naimur978&show_icons=true&theme=dracula&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur978&theme=dracula&hide_border=true" />
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=naimur978&theme=dracula&hide_border=true&bg_color=282A36" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimur978&theme=dracula&hide_border=true&bg_color=282A36" />
   </a>
 </div>
 
