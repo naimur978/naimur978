@@ -27,7 +27,7 @@
 
 
 <!-- <h1 align="center">Hei! This is Naimur!</h1> -->
-<h4 align="center">I am passionate about the intersection of Machine Learning and Software Development and aim to leverage my current expertise and skills to make meaningful contributions as a Data Science Engineer.</h3>
+<h4 align="center">I am passionate about projects where there's a combination of Machine Learning and Software Development and aim to leverage my current expertise and skills to make meaningful contributions as a Data Science Engineer.</h3>
 
 
 <!-- 
